@@ -18,6 +18,7 @@ SiteCheck is designed to work with Python 2.7.8 and is not tested with older or 
 	
 4) Open sitelist.txt and add the website nick-name, API number and URL for each site.
 	FORMATTING IS IMPORTANT: deviation from the predefined format will cause the software to hang. sitelist.txt should be formatted as follows:
+	
 			Site1
 			API Number
 			Website URL
