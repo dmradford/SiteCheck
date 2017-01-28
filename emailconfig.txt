@@ -1,0 +1,7 @@
+From: from@emailaddress.com
+To: to@emailaddress.com
+Login: from@emailaddress.com
+Password: password
+Server: emailserver.com
+Port: 465
+SSL: True
